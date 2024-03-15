@@ -1,10 +1,11 @@
 # Desafío Guiado: Membresía
 
-Este proyecto es un desafío que debo realizar
+Este proyecto corresponde a un desafío que debo realizar.
 
 ## Descripción
 
-Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
+El proposito de este desafio, es trabajar la documentación de un programa, en un contexto "laboral", donde solo he recibido un programa creado por alguien más y
+debo poder determinar que funcion realiza cada función y/o variable.
 
 ## Empezando 🚀
 
@@ -21,7 +22,4 @@ git clone urlgit
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
 
 - Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10)
-- Lenguaje de programación (por ejemplo, Python 3.8)
-- Framework (por ejemplo, Django 3.1)
-- Base de datos (por ejemplo, PostgreSQL 12)
-- Otros...
+- Lenguaje de programación (por ejemplo, Python 3.8, Python 3.10)
